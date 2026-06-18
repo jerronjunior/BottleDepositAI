@@ -1,0 +1,8 @@
+path: E:/BottleDepositAI/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: bottle
+  1: bin
